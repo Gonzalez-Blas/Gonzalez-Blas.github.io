@@ -20,7 +20,6 @@ redirect_from:
   - **Social Science Baccalaureate**  *2021 – 2022*
   - *Activities:* Model UN, Spanish Club, Senator in the Student Government Association (SGA), Mock Trial Team, Soccer Team.
 
----
 
 ## Professional Experience
 
@@ -48,7 +47,6 @@ redirect_from:
   - Delivered a strategic investment analysis of London Stock Exchange Group (LSEG), assessing financial performance, valuation drivers, competitive positioning, and growth opportunities.
   - Developed technical skills in valuation, financial statement analysis, and pitchbook preparation through investment banking case studies, workshops, and mentorship sessions.
 
----
 
 ## Leadership, Memberships & Extracurriculars
 
@@ -65,7 +63,7 @@ redirect_from:
 - **[Unity Comillas](https://www.facebook.com/comillas.unity/)** — *Ex-President & Ex-Chairman*
   - Organized and managed large-scale cultural, social, and networking events, connecting international and domestic students while fostering a diverse and inclusive university environment.
 
----
+
 
 ## Licenses & Certifications
 
@@ -75,7 +73,7 @@ redirect_from:
 - **Private Equity and Venture Capital**
 - **Bloomberg Finance Fundamentals**
 
----
+
 
 ## Honors & Awards
 
@@ -94,7 +92,7 @@ redirect_from:
   - Developed a market-entry and promotional strategy for Genroku Tatami, incorporating consumer research, competitive analysis, branding, and growth recommendations.
   - Presented strategic findings to an academic and industry judging panel, demonstrating commercial awareness, teamwork, and business problem-solving capabilities.
 
----
+
 
 ## Volunteering & Social Impact
 
