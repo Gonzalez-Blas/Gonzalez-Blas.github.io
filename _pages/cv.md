@@ -67,12 +67,11 @@ redirect_from:
 
 ## Licenses & Certifications
 
-- **FactSet Essentials: Core Products**
-- **FactSet Essentials: Derivatives**
-- **Advanced Valuation and Strategy - M&A, PE, and VC**
-- **Private Equity and Venture Capital**
-- **Bloomberg Finance Fundamentals**
-
+- FactSet Essentials: Core Products | _FactSet_
+- FactSet Essentials: Derivatives | _FactSet_ 
+- Advanced Valuation and Strategy - M&A, PE, and VC | _ Erasmus School of Economics_
+- Private Equity and Venture Capital | _Università Bocconi _
+- Bloomberg Finance Fundamentals | _Bloomberg_
 
 
 ## Honors & Awards
