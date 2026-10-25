@@ -16,7 +16,7 @@ Through this platform, I aim to make sense of the incredible wave of innovation 
 
 ***
 
-## Complete Research Portfolio (36 Startup Briefs)
+## Complete Research Portfolio
 *Browse our complete library of two-pager research reports below, categorized by company growth stage.*
 
 <!-- 3-Column Grid Container -->
