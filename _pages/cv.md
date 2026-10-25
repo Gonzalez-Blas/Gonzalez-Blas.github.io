@@ -6,9 +6,6 @@ redirect_from:
   - /resume
 ---
 
-**Covadonga González-Blas Pérez**  
----
-
 ## Education
 
 - **[Universidad Pontificia de Comillas (ICADE Business School)](https://www.comillas.edu/grados/grado-en-administracion-y-direccion-de-empresas-ade-e-2/)** — *Madrid, Spain*
