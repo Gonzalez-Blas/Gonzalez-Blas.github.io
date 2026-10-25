@@ -42,19 +42,27 @@ redirect_from:
 
 * **UBS** | London, United Kingdom
   * **Global Banking Summer Analyst (Unified Global Banking - UGB)** | Jun 2026 – Aug 2026
-  * Selected for the competitive Global Banking summer internship program in London, supporting capital raises, sector pitches, and financial valuation.
+  * Supported a $300m capital raise in the music and entertainment sector, contributing to investor outreach efforts, maintaining investor engagement trackers, and supporting transaction execution through first close.
+  * Performed company and industry research, valuation analysis, and financial modelling using comparable companies and precedent transactions to support live and prospective client mandates.
+  * Assisted in the preparation of pitchbooks, marketing materials, and strategic presentations for senior bankers and corporate clients across financing and advisory transactions.
+
 * **Let'sInnovate (Grupo LETS)** | Madrid, Spain
   * **Open Innovation Analyst** | Jul 2025 – Nov 2025
-  * Conducted in-depth research on emerging market trends and disruptive technologies; built valuation models and strategic assessments to identify high-potential ventures for corporate clients.
-  * Designed KPI dashboards and startup profiles to support scouting and client decision-making; contributed to partnership development through tailored innovation reports.
+  * Built an automated startup intelligence database to identify high-growth companies, emerging technologies, and market opportunities for corporate innovation projects.
+  * Evaluated more than 20 startups through valuation modelling, competitive analysis, and strategic assessments, supporting investment, partnership, and innovation-related decisions.
+  * Produced market research reports and executive presentations covering venture capital trends, innovation ecosystems, and disruptive technologies across multiple industries.
+
 * **EY (Governance and Public Sectors)** | Madrid, Spain
   * **Business Consulting Intern** | Jun 2025 – Jul 2025
-  * Supported the Project Management Office (PMO) for a €2.6 billion public sector digital transformation program by coordinating timelines and preparing weekly status updates for senior stakeholders.
-  * Built and maintained Excel and Power BI dashboards to track KPIs and project milestones, enabling data-driven decisions across government departments.
+  * Supported the Project Management Office (PMO) of a €2.6bn public-sector digital transformation programme by coordinating timelines, monitoring deliverables, and preparing executive reporting materials.
+  * Developed Excel, VBA, and Power BI solutions to automate reporting processes, improving efficiency and reducing manual data-processing requirements.
+  * Tracked more than 15 programme KPIs and project milestones through interactive dashboards, enabling data-driven decision-making and enhanced stakeholder visibility.
+
 * **Nomura** | London, United Kingdom
-  * **2025 Women's Immersion Programme (Investment Banking)** | Apr 2025
-  * Delivered a strategic presentation on the London Stock Exchange Group, analyzing its financials, competitive positioning, and growth strategy within the financial infrastructure space.
-  * Gained rigorous exposure to valuation techniques, pitchbook creation, and industry analysis through mentorship and hands-on workshops.
+  * **Women's Immersion Programme (Investment Banking)** | Apr 2025
+  * Selected for Nomura's competitive Investment Banking Women's Immersion Programme, gaining exposure to M&A, capital markets, and corporate finance advisory.
+  * Delivered a strategic investment analysis of London Stock Exchange Group (LSEG), assessing financial performance, valuation drivers, competitive positioning, and growth opportunities.
+  * Developed technical skills in valuation, financial statement analysis, and pitchbook preparation through investment banking case studies, workshops, and mentorship sessions.
 
 ---
 
@@ -69,7 +77,6 @@ redirect_from:
 * **[Nova Talent](https://www.novatalent.com/)** | Member | Jun 2025 – Present
   * Member of the selective top-tier professional network connecting high-potential European talent with leading global institutions.
 * **Model United Nations (MUN) & ICADE Debate Club** | Delegate & Member
-  * *UC3MUN ECOFIN:* Represented the United Kingdom, authoring the SHIELD initiative on combating illicit financial flows and receiving an **Honorable Mention**.
   * Strengthened public speaking, critical thinking, and persuasive argumentation through competitive debate simulations.
 
 ---
@@ -86,12 +93,21 @@ redirect_from:
 
 ## Honors & Awards
 
-* **Mentee - International Women Mentorship Program** | Oliver Wyman (Jun 2025)
-  * Chosen to participate in a global mentorship initiative supporting women in consulting through one-on-one mentorship, career development, and case simulations.
-* **Honorable Mention at UC3MUN** | Universidad Carlos III / ECOFIN (Mar 2025)
-* * **3rd IBSS Virtual Business Competition 2024** | XJTLU & The Asia Institute
-  * Built and designed a promotional plan for Genroku Tatami (a Japanese company), achieving **2nd place** out of international competing teams.
+* **[Mentee - International Women Mentorship Program]([https://www.oliverwyman.com/careers/recruiting-events/international-mentorship-program/spain.html])**  | Oliver Wyman (Jun 2025)
+  * Selected for Oliver Wyman's global mentorship initiative supporting high-potential women pursuing careers in consulting through mentorship, professional development, and collaborative learning.
+  * Received one-on-one coaching from an Oliver Wyman consultant, gaining insights into consulting career paths, case interview preparation, problem-solving techniques, and client engagement.
+  * Collaborated with an international cohort of participants on case competition projects and business challenges, developing structured analytical thinking, teamwork, and presentation skills.
+  * <a href="https://www.oliverwyman.com/careers/recruiting-events/international-women-mentorship-program.html" target="_blank" rel="noopener noreferrer">Program Link</a>
 
+* **Honorable Mention - UC3MUN** | Universidad Carlos III de Madrid & ECOFIN (Mar 2025)
+  * Awarded Honorable Mention for outstanding performance in a university-level Model United Nations conference, demonstrating negotiation, public speaking, and policy analysis skills.
+  * Represented a member state in committee discussions, drafting resolutions and building consensus among delegates to address complex international challenges.
+  * Developed persuasive communication, diplomacy, and stakeholder management abilities through debate, coalition-building, and formal negotiations.
+
+* **3rd IBSS Virtual Business Competition 2024** | Xi'an Jiaotong-Liverpool University & The Asia Institute
+  * Achieved 2nd place in an international business competition, competing against multidisciplinary teams from universities across multiple countries.
+  * Developed a market-entry and promotional strategy for Genroku Tatami, incorporating consumer research, competitive analysis, branding, and growth recommendations.
+  * Presented strategic findings to an academic and industry judging panel, demonstrating commercial awareness, teamwork, and business problem-solving capabilities.
 ---
 
 ## Volunteering & Social Impact
