@@ -28,25 +28,25 @@ redirect_from:
 ## Professional Experience
 
 - **UBS** — *London, United Kingdom*
-  - **Global Banking Summer Analyst (Unified Global Banking - UGB)**  *Jun 2026 – Aug 2026*
+  - **Global Banking Summer Analyst (Unified Global Banking - UGB)** — *Jun 2026 – Aug 2026*
   - Supported a $300m capital raise in the music and entertainment sector, contributing to investor outreach efforts, maintaining investor engagement trackers, and supporting transaction execution through first close.
   - Performed company and industry research, valuation analysis, and financial modelling using comparable companies and precedent transactions to support live and prospective client mandates.
   - Assisted in the preparation of pitchbooks, marketing materials, and strategic presentations for senior bankers and corporate clients across financing and advisory transactions.
 
 - **Let'sInnovate (Grupo LETS)** — *Madrid, Spain*
-  - **Open Innovation Analyst**  *Jul 2025 – Nov 2025*
+  - **Open Innovation Analyst** — *Jul 2025 – Nov 2025*
   - Built an automated startup intelligence database to identify high-growth companies, emerging technologies, and market opportunities for corporate innovation projects.
   - Evaluated more than 20 startups through valuation modelling, competitive analysis, and strategic assessments, supporting investment, partnership, and innovation-related decisions.
   - Produced market research reports and executive presentations covering venture capital trends, innovation ecosystems, and disruptive technologies across multiple industries.
 
 - **EY** — *Madrid, Spain*
-  - **Business Consulting Intern (Governance and Public Sectors)**  *Jun 2025 – Jul 2025*
+  - **Business Consulting Intern (Governance and Public Sectors)** — *Jun 2025 – Jul 2025*
   - Supported the Project Management Office (PMO) of a €2.6bn public-sector digital transformation programme by coordinating timelines, monitoring deliverables, and preparing executive reporting materials.
   - Developed Excel, VBA, and Power BI solutions to automate reporting processes, improving efficiency and reducing manual data-processing requirements.
   - Tracked more than 15 programme KPIs and project milestones through interactive dashboards, enabling data-driven decision-making and enhanced stakeholder visibility.
 
 - **Nomura** — *London, United Kingdom*
-  - **Women's Immersion Programme (Investment Banking)**  *Apr 2025*
+  - **Women's Immersion Programme (Investment Banking)** — *Apr 2025*
   - Selected for Nomura's competitive Investment Banking Women's Immersion Programme, gaining exposure to M&A, capital markets, and corporate finance advisory.
   - Delivered a strategic investment analysis of London Stock Exchange Group (LSEG), assessing financial performance, valuation drivers, competitive positioning, and growth opportunities.
   - Developed technical skills in valuation, financial statement analysis, and pitchbook preparation through investment banking case studies, workshops, and mentorship sessions.
@@ -72,11 +72,11 @@ redirect_from:
 
 ## Licenses & Certifications
 
-- **FactSet Essentials: Core Products** — *FactSet (Mar 2026)*
-- **FactSet Essentials: Derivatives** — *FactSet (Mar 2026)* 
-- **Advanced Valuation and Strategy - M&A, PE, and VC** — *Erasmus School of Economics (Jun 2025)* 
-- **Private Equity and Venture Capital** — *Università Bocconi (Jun 2025)* 
-- **Bloomberg Finance Fundamentals** — *Bloomberg (Mar 2025)* 
+- **FactSet Essentials: Core Products**
+- **FactSet Essentials: Derivatives**
+- **Advanced Valuation and Strategy - M&A, PE, and VC**
+- **Private Equity and Venture Capital**
+- **Bloomberg Finance Fundamentals**
 
 ---
 
