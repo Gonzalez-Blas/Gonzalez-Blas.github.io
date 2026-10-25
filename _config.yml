@@ -18,7 +18,7 @@ author:
   employer         : "Universidad Pontificia de Comillas - ICADE"
   email            : "cglblpe@gmail.com" 
   github           : "Gonzalez-Blas"
-  linkedin         : "https://www.linkedin.com/in/covadonga-gonzalez-blas"
+  linkedin         : "covadonga-gonzalez-blas"
   uri              : "https://comillaspevcclub.es/"
 
 # Site Settings
@@ -30,6 +30,11 @@ talkmap_link             : false
 
 # SEO Related
 og_image                 : og-image.png
+
+# THIS IS THE PART THAT TELLS THE SITE TO LOAD YOUR PAGES
+include:
+  - _pages
+  - files
 
 # Build Settings (Do not change these)
 exclude:
@@ -134,8 +139,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-
-
-
-
