@@ -272,12 +272,4 @@ Through this platform, I aim to make sense of the incredible wave of innovation 
     <a href="/files/yonder-brief.pdf" target="_blank" style="display: inline-block; background: #0366d6; color: white; padding: 6px 12px; border-radius: 4px; text-decoration: none; font-size: 0.85rem;">View Full 2-Pager 📄</a>
   </div>
 
-  <!-- DEAD / ARCHIVED -->
-  <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; background: #fff; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
-    <span style="font-size: 0.75rem; font-weight: bold; color: #dc2626; text-transform: uppercase;">Archived / Post-Mortem</span>
-    <h3 style="font-size: 1.1rem; margin: 5px 0 8px 0;">So Syncd</h3>
-    <p style="font-size: 0.85rem; color: #586069; margin: 0 0 12px 0;">🇬🇧 UK | App Startups</p>
-    <a href="/files/so-syncd-brief.pdf" target="_blank" style="display: inline-block; background: #0366d6; color: white; padding: 6px 12px; border-radius: 4px; text-decoration: none; font-size: 0.85rem;">View Full 2-Pager 📄</a>
-  </div>
-
 </div>
