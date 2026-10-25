@@ -7,8 +7,6 @@ redirect_from:
 ---
 
 **Covadonga González-Blas Pérez**  
-📞 +34 696425360 &nbsp;•&nbsp; ✉️ cglblpe@gmail.com &nbsp;•&nbsp; 📍 Madrid, Spain &nbsp;•&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/covadonga-gonzalez-blas)
-
 ---
 
 ## Education
