@@ -15,4 +15,6 @@ Professionally, I have sought out environments where I can build, analyze, and e
 
 Beyond my corporate experiences, my commitment to the financial ecosystem is reflected in my leadership and entrepreneurial endeavors. As the Founder of STA, I established a research framework to publish data-driven briefs on emerging European companies. Simultaneously, as Vice President of the Comillas Private Equity & Venture Capital Club and an Investment Analyst at Testudo Wealth Management, I have spent my time assessing deal risk, analyzing public equities, and building hands-on valuation models. 
 
+Looking ahead, my natural evolution lies at the boundary where financial theory meets advanced computation. Having experienced the strategic and transactional side of finance, I am eager to pivot deeper into the quantitative universe by pursuing a Master in Financial Engineering (MFE). This next step represents my commitment to mastering rigorous mathematical modeling and modern programming languages, enabling me to engineer sophisticated solutions for modern financial markets.
+
 **Explore my portfolio using the navigation tabs above** to dive deeper into my startup research, corporate analyses, and technical projects.
