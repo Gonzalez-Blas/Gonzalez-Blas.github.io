@@ -10,10 +10,7 @@
 main:
 
   - title: "STA"
-    url: /sta/    
-
-  - title: "Analysis"
-    url: /teaching/    
+    url: /sta/     
   
   - title: "Projects"
     url: /projects/
