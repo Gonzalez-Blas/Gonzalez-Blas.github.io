@@ -26,10 +26,10 @@ redirect_from:
 
 * **[Universidad Pontificia de Comillas (ICADE Business School)](https://www.comillas.edu/grados/grado-en-administracion-y-direccion-de-empresas-ade-e-2/)** | Madrid, Spain
   * **Bachelor’s Degree in Business Administration and Management (BBA - E-2 English)** | Expected May 2027
-  * *Selected Relevant Coursework & Grades:* Financial Accounting (9.10/10), Financial Mathematics (8.90/10), Data Analysis and Visualization (8.60/10), Fundamentals of Marketing (9.00/10)
+  * *Selected Relevant Coursework:* Financial Accounting (9.10/10), Financial Mathematics (8.90/10), Data Analysis and Visualization (8.60/10), Fundamentals of Marketing (9.00/10)
 * **University of Bath School of Management** | Bath, United Kingdom
   * **Exchange Semester (Banking, Corporate, Finance, and Securities Law)** | Feb 2026 – May 2026
-  * *Relevant Coursework & Marks:* The Business of Investment Banking, Strategic and Behavioural Finance Decision-Making, Entrepreneurial Finance and Intellectual Property
+  * *Relevant Coursework:* The Business of Investment Banking, Strategic and Behavioural Finance Decision-Making, Entrepreneurial Finance and Intellectual Property
 * **Colegio Nuestra Señora del Pilar** | Madrid, Spain
   * **Technological Science Baccalaureate** | 2022 – 2023
 * **Greenbrier High School** | Evans, GA, USA
