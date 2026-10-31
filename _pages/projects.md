@@ -89,4 +89,16 @@ This page houses a curated selection of my financial analyses, equity research s
     <a href="/files/cancer-evaluation-stats.pdf" target="_blank" style="display: inline-block; background: #0366d6; color: white; padding: 6px 12px; border-radius: 4px; text-decoration: none; font-size: 0.85rem; text-align: center; margin-top: 10px;">View Full Paper 📄</a>
   </div>
 
+<!-- Card 7: Quantitative Risk Management & Portfolio Analytics -->
+  <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; background: #fff; box-shadow: 0 1px 3px rgba(0,0,0,0.05); display: flex; flex-direction: column; justify-content: space-between;">
+    <div>
+      <span style="font-size: 0.75rem; font-weight: bold; color: #0284c7; text-transform: uppercase;">Quantitative Finance</span>
+      <h3 style="font-size: 1.1rem; margin: 5px 0 8px 0;">Portfolio VaR & Expected Shortfall Calculator</h3>
+      <p style="font-size: 0.85rem; color: #586069; margin: 0 0 6px 0;"><strong>Context:</strong> Quantitative Risk Management Weekend Project (2026).</p>
+      <p style="font-size: 0.85rem; color: #586069; margin: 0 0 6px 0;"><strong>Description:</strong> Built an end-to-end Python risk engine and interactive Streamlit app to model single-asset and multi-asset portfolio tail risk using Historical Simulation, Parametric VaR, and Backtesting framework.</p>
+      <p style="font-size: 0.85rem; color: #586069; margin: 0 0 12px 0;"><strong>Key Learnings:</strong> Quantifying extreme downside tail risk (CVaR/ES), market data integration via yfinance, and backtesting risk limits against historical market shocks.</p>
+    </div>
+    <a href="[https://github.com/Gonzalez-Blas/var-expected-shortfall-calculator]" target="_blank" style="display: inline-block; background: #24292e; color: white; padding: 6px 12px; border-radius: 4px; text-decoration: none; font-size: 0.85rem; text-align: center; margin-top: 10px;">View GitHub Repo 🚀</a>
+  </div>
+
 </div>
